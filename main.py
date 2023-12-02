@@ -4,7 +4,7 @@ import yaakov_weather_api as yw
 import pandas as pd
 
 # Title for your app
-st.title("Yaakov's Weather Project")
+st.title("BIU DS16 - Python Project 1 - Weather Forecast")
 
 # local time
 # ist_time = yw.get_date_time()

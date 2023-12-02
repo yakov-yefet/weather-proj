@@ -1,6 +1,6 @@
-# Weather Dashboard
+# BIU DS16 - Python Project 1 - Weather Forecast
 ## Project Overview
-This Weather Dashboard is a Python-based web application designed to provide real-time weather information for cities around the globe. Utilizing the powerful OpenWeatherMap API, the application presents current weather data, including temperature and other relevant details, in a user-friendly interface. Developed using Streamlit, the app offers a seamless and interactive experience, while Pandas is employed for efficient data handling and manipulation.
+This Weather Forecast is a Python-based web application designed to provide real-time weather information for cities around the globe. Utilizing the powerful OpenWeatherMap API, the application presents current weather data, including temperature and other relevant details, in a user-friendly interface. Developed using Streamlit, the app offers a seamless and interactive experience, while Pandas is employed for efficient data handling and manipulation.
 
 ## Features
 - **City Selection**: Users can select from a list of cities to retrieve weather information.
