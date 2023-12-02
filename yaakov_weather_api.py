@@ -32,8 +32,6 @@ def preprint_weather_of_city(city_name = "Jerusalem"):
     'Humidity': [weather_json['main']['humidity']],
     'Wind speed': [weather_json['wind']['speed']]
   }
-
-
   return weather_data
 
 def get_date_time(location_timezone_str='Asia/Jerusalem'):
@@ -45,7 +43,7 @@ def get_date_time(location_timezone_str='Asia/Jerusalem'):
   location_tz = pytz.timezone(location_timezone_str)
   utc_time = utc_tz.localize(now)
   location_time = utc_time.astimezone(location_tz)
-  return location_time.strftime('%d.%m.%Y %H:%M')
+  return location_time.strftime('%d.%m.%Y  -  %H:%M')
 
 def preprint_date_time(location_timezone_str = 'Asia/Jerusalem', location_str = 'Jerusalem'):
   return f"Date and time in ***{location_str}***: {get_date_time(location_timezone_str)}"

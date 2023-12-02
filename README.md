@@ -19,3 +19,6 @@ This Weather Dashboard is a Python-based web application designed to provide rea
 1. Clone the repository
    ```bash
    git clone https://github.com/yakov-yefet/weather-proj.git
+
+### Example
+1. Watch on Streamlit https://weather-proj-zggb9zhlwstqyvygkj6jst.streamlit.app/
