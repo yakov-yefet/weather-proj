@@ -21,4 +21,4 @@ This Weather Forecast is a Python-based web application designed to provide real
    git clone https://github.com/yakov-yefet/weather-proj.git
 
 ### Example
-1. Watch on Streamlit https://weather-proj-zggb9zhlwstqyvygkj6jst.streamlit.app/
+1. Watch on Streamlit https://weather-proj-jwsrgnfknerhecty38txuk.streamlit.app/
